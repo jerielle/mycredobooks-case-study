@@ -60,9 +60,9 @@ Responsibilities included:
 
 ![Login](screenshots/login-credobooks.png)
 
-### Admin Page
+### Dashboard
 
-![Admin Page](screenshots/admin-credobooks.png)
+![Dashboard](screenshots/dashboard-credobooks.png)
 
 ## 🎥 Demo
 
