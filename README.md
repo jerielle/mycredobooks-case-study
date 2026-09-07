@@ -54,15 +54,15 @@ Responsibilities included:
 
 ### Homepage
 
-![Credobooks Homepage](screenshots/homepage.png)
+![Credobooks Homepage](screenshots/home-credobooks.png)
 
 ### Login
 
-![Login](screenshots/login.png)
+![Login](screenshots/login-credobooks.png)
 
 ### Admin Page
 
-![Admin Page](screenshots/admin.png)
+![Admin Page](screenshots/admin-credobooks.png)
 
 ## 🎥 Demo
 
